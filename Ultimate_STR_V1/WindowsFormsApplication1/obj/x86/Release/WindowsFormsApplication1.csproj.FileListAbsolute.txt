@@ -1,0 +1,168 @@
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.ChangeCompanyName.resources
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.CloseFormValidation.resources
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.form28.resources
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form28_2.resources
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form29_1.resources
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form29_2.resources
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form29_3.resources
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form3.resources
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form30.resources
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form31.resources
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form32_1.resources
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form32_2.resources
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Login.resources
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form4.resources
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.reporttemp.resources
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.RPM_Report.resources
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.ShiftChange.resources
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\RdlCompile.cache
+C:\Users\Automation Teknix\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\RdlCompile.compiled
+G:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
+G:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+G:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.ChangeCompanyName.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.CloseFormValidation.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.form28.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form28_2.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form29_1.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form29_2.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form29_3.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form3.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form30.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form31.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form32_1.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form32_2.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Login.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form4.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.reporttemp.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.RPM_Report.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.ShiftChange.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\RdlCompile.cache
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\RdlCompile.compiled
+F:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.ChangeCompanyName.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.CloseFormValidation.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.form28.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form28_2.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form29_1.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form29_2.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form29_3.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form3.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form30.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form31.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form32_1.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form32_2.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Login.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form4.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.reporttemp.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.RPM_Report.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.ShiftChange.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\RdlCompile.cache
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\RdlCompile.compiled
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.ChangeCompanyName.resources
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.CloseFormValidation.resources
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form2.resources
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.form28.resources
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form28_2.resources
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form29_1.resources
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form29_2.resources
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form29_3.resources
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form3.resources
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form30.resources
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form31.resources
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form32_1.resources
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form32_2.resources
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form4.resources
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form5.resources
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Login.resources
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.reporttemp.resources
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.RPMnew.resources
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.RPM_Report.resources
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.ShiftChange.resources
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\RdlCompile.cache
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\RdlCompile.compiled
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\MySql.Data.Entity.EF6.dll
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\MySql.Fabric.Plugin.dll
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.ChangeCompanyName.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.CloseFormValidation.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Edit_RPM.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Excel_Import_Path.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form2.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form26.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.form28.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form28_1_B.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form28_2.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form29_1.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form29_2.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form29_3.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form3.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form30.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form31.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form32_1.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form32_2.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form4.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form5.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Login.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.New_Shift.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.operation28.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Opereation.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Opereation_Form28_2.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Opereation_Form29_1.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Opereation_Form29_2.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Opereation_Form29_3.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Opereation_Form30.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Opereation_Form31.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Opereation_Form32_1.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Opereation_Form32_2.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Opereation_RPM.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Opereation_Temp.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.reporttemp.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.reporttemp_new.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.RPMnew.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.RPM_Report.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.ShiftChange.resources
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\RdlCompile.cache
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\RdlCompile.compiled
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\21_Dec_2016\Code 4.6\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Backup.resources

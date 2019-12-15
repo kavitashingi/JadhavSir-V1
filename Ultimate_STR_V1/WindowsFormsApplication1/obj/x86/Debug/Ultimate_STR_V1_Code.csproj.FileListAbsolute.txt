@@ -1,0 +1,227 @@
+E:\Ultimate_STR_V1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Ultimate_STR_V1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Ultimate_STR_V1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Ultimate_STR_V1\WindowsFormsApplication1\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Ultimate_STR_V1\WindowsFormsApplication1\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Backup.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ChangeCompanyName.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CloseFormValidation.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Edit_RPM.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Excel_Import_Path.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form26.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.form28.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form28_1_B.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form28_2.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form29_1.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form29_2.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form29_3.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form30.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form31.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form32_1.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form32_2.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.New_Shift.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.operation28.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form28_2.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form29_1.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form29_2.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form29_3.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form30.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form31.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form32_1.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form32_2.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_RPM.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Temp.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.reporttemp.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.reporttemp_new.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RPMnew.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RPM_Report.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ShiftChange.resources
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\Ultimate_STR_V1_Code.csproj.GenerateResource.Cache
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\RdlCompile.cache
+E:\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\RdlCompile.compiled
+E:\Ultimate_STR_V1\WindowsFormsApplication1\bin\Debug\MySql.Fabric.Plugin.dll
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Backup.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ChangeCompanyName.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CloseFormValidation.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Edit_RPM.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Excel_Import_Path.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form26.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.form28.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form28_1_B.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form28_2.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form29_1.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form29_2.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form29_3.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form30.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form31.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form32_1.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form32_2.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.New_Shift.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.operation28.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form28_2.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form29_1.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form29_2.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form29_3.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form30.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form31.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form32_1.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form32_2.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_RPM.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Temp.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.reporttemp.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.reporttemp_new.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RPMnew.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RPM_Report.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ShiftChange.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\Ultimate_STR_V1_Code.csproj.GenerateResource.Cache
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\RdlCompile.cache
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\RdlCompile.compiled
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\bin\Debug\MySql.Fabric.Plugin.dll
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Calibration_Mix.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form29_Wider.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form32_3.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form32_3.resources
+E:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Operation_Form26.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\bin\Debug\MySql.Fabric.Plugin.dll
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\Ultimate_STR_V1_Code.csprojResolveAssemblyReference.cache
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Backup.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Calibration_Mix.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ChangeCompanyName.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CloseFormValidation.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DatatEntryScreen.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form29_Wider.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form29_Wider.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form32_3.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form32_3.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Edit_RPM.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Excel_Import_Path.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form26.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.form28.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form28_1_B.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form28_2.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form29_1.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form29_2.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form29_3.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form30.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form31.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form32_1.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form32_2.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.New_Shift.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.operation28.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Operation_Form26.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form28_2.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form29_1.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form29_2.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form29_3.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form30.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form31.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form32_1.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Form32_2.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_RPM.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Opereation_Temp.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.reporttemp.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.reporttemp_new.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RPMnew.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RPM_Report.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ShiftChange.resources
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\Ultimate_STR_V1_Code.csproj.GenerateResource.Cache
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\RdlCompile.cache
+D:\Data Logger\Code\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\RdlCompile.compiled
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\bin\Debug\MySql.Fabric.Plugin.dll
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\Ultimate_STR_V1_Code.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Backup.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Calibration_Mix.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ChangeCompanyName.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CloseFormValidation.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DatatEntryScreen.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Edit_RPM.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Excel_Import_Path.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form28_1_B.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.New_Shift.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Operation_Form26.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.reporttemp.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.reporttemp_new.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RPMnew.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RPM_Report.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ShiftChange.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.UserProfile.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\Ultimate_STR_V1_Code.csproj.GenerateResource.Cache
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\RdlCompile.cache
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\RdlCompile.compiled
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.HomePage.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CubeWater_Wider.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TensionWider.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CubeWater.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FlexuralStrength.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MixDesign.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TensionXII.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TensionTurnOut.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.BondStrength.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SBT1.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SBT2.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CubeMortar.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CubeSteam.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CubeWaterWider_Opereation.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TensionWider_Opereation.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SBT1_Opereation.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SBT2_Opereation.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CubeMortar_Opereation.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CubeWater_Opereation.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CubeSteam_Opereation.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FlexuralStrength_Opereation.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MixDesign_Opereation.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TensionXII_Opereation.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TensionTurnOut_Opereation.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RPM_Opereation.resources
+E:\Visual Studio 2010\Projects\Ultimate_STR_V1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Temp_Opereation.resources

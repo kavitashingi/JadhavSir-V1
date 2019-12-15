@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ultimate_eleDataSet1" targetNamespace="http://tempuri.org/ultimate_eleDataSet1.xsd" xmlns:mstns="http://tempuri.org/ultimate_eleDataSet1.xsd" xmlns="http://tempuri.org/ultimate_eleDataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ultimate_eleConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ultimate_eleConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.WindowsFormsApplication1.Properties.Settings.GlobalReference.Default.ultimate_eleConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="current selectionTableAdapter" GeneratorDataComponentClassName="current_selectionTableAdapter" Name="current selection" UserDataComponentName="current selectionTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ultimate_eleConnectionString (Settings)" DbObjectName="`ultimate ele`.`current selection`" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `Batch no`, `mix`, `tension`, `length of wire`, `CS`, `intervals`, `id` FROM `current selection`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ultimate_eleDataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="ultimate_eleDataSet1" msprop:Generator_UserDSName="ultimate_eleDataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="current_x0020_selection" msprop:Generator_TableClassName="current_selectionDataTable" msprop:Generator_TableVarName="tablecurrent_selection" msprop:Generator_RowChangedName="current_selectionRowChanged" msprop:Generator_TablePropName="current_selection" msprop:Generator_RowDeletingName="current_selectionRowDeleting" msprop:Generator_RowChangingName="current_selectionRowChanging" msprop:Generator_RowEvHandlerName="current_selectionRowChangeEventHandler" msprop:Generator_RowDeletedName="current_selectionRowDeleted" msprop:Generator_RowClassName="current_selectionRow" msprop:Generator_UserTableName="current selection" msprop:Generator_RowEvArgName="current_selectionRowChangeEvent">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

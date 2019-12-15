@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ultimate_eleDataSet" targetNamespace="http://tempuri.org/ultimate_eleDataSet.xsd" xmlns:mstns="http://tempuri.org/ultimate_eleDataSet.xsd" xmlns="http://tempuri.org/ultimate_eleDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ultimate_eleConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ultimate_eleConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.WindowsFormsApplication1.Properties.Settings.GlobalReference.Default.ultimate_eleConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="rpmdataTableAdapter" GeneratorDataComponentClassName="rpmdataTableAdapter" Name="rpmdata" UserDataComponentName="rpmdataTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ultimate_eleConnectionString (Settings)" DbObjectName="ultimate_ele1.rpmdata" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT `benchno`, `castingtime`, `rpm1`, `t1`, `batchno`, `rpm2`, `t2`, `rpm3`, `t3`, `rpm4`, `t4`, `rpm5`, `t5`, `rpm6`, `t6`, `rpm7`, `t7`, `rpm8`, `t8` FROM `rpmdata` order by  `castingtime`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="benchno" DataSetColumn="benchno" />
+              <Mapping SourceColumn="castingtime" DataSetColumn="castingtime" />
+              <Mapping SourceColumn="rpm1" DataSetColumn="rpm1" />
+              <Mapping SourceColumn="t1" DataSetColumn="t1" />
+              <Mapping SourceColumn="batchno" DataSetColumn="batchno" />
+              <Mapping SourceColumn="rpm2" DataSetColumn="rpm2" />
+              <Mapping SourceColumn="t2" DataSetColumn="t2" />
+              <Mapping SourceColumn="rpm3" DataSetColumn="rpm3" />
+              <Mapping SourceColumn="t3" DataSetColumn="t3" />
+              <Mapping SourceColumn="rpm4" DataSetColumn="rpm4" />
+              <Mapping SourceColumn="t4" DataSetColumn="t4" />
+              <Mapping SourceColumn="rpm5" DataSetColumn="rpm5" />
+              <Mapping SourceColumn="t5" DataSetColumn="t5" />
+              <Mapping SourceColumn="rpm6" DataSetColumn="rpm6" />
+              <Mapping SourceColumn="t6" DataSetColumn="t6" />
+              <Mapping SourceColumn="rpm7" DataSetColumn="rpm7" />
+              <Mapping SourceColumn="t7" DataSetColumn="t7" />
+              <Mapping SourceColumn="rpm8" DataSetColumn="rpm8" />
+              <Mapping SourceColumn="t8" DataSetColumn="t8" />
+            </Mappings>
+            <Sources>
+              <DbSource ConnectionRef="ultimate_eleConnectionString (Settings)" DbObjectName="" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="FillBy" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataBy" GeneratorSourceName="FillBy" GetMethodModifier="Public" GetMethodName="GetDataBy" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy" UserSourceName="FillBy">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT benchno, max(castingtime) as 'castingtime',max(rpm1)as 'rpm1',
+
+  SEC_TO_TIME(sum(TIME_TO_SEC(t1)))as 't1'
+,max(rpm2)as 'rpm2',
+
+  SEC_TO_TIME(sum(TIME_TO_SEC(t2)))as 't2'
+,max(rpm3)as 'rpm3',
+
+  SEC_TO_TIME(sum(TIME_TO_SEC(t3)))as 't3'
+,max(rpm4)as 'rpm4',
+
+  SEC_TO_TIME(sum(TIME_TO_SEC(t4)))as 't4'
+
+ FROM rpmdata where batchno=01 and benchno=benchno  group by benchno;
+</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ultimate_eleDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="ultimate_eleDataSet" msprop:Generator_UserDSName="ultimate_eleDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="rpmdata" msprop:Generator_TableClassName="rpmdataDataTable" msprop:Generator_TableVarName="tablerpmdata" msprop:Generator_TablePropName="rpmdata" msprop:Generator_RowDeletingName="rpmdataRowDeleting" msprop:Generator_RowChangingName="rpmdataRowChanging" msprop:Generator_RowEvHandlerName="rpmdataRowChangeEventHandler" msprop:Generator_RowDeletedName="rpmdataRowDeleted" msprop:Generator_UserTableName="rpmdata" msprop:Generator_RowChangedName="rpmdataRowChanged" msprop:Generator_RowEvArgName="rpmdataRowChangeEvent" msprop:Generator_RowClassName="rpmdataRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="benchno" msprop:Generator_ColumnVarNameInTable="columnbenchno" msprop:Generator_ColumnPropNameInRow="benchno" msprop:Generator_ColumnPropNameInTable="benchnoColumn" msprop:Generator_UserColumnName="benchno" type="xs:unsignedInt" />
+              <xs:element name="castingtime" msprop:Generator_ColumnVarNameInTable="columncastingtime" msprop:Generator_ColumnPropNameInRow="castingtime" msprop:Generator_ColumnPropNameInTable="castingtimeColumn" msprop:Generator_UserColumnName="castingtime" type="xs:dateTime" />
+              <xs:element name="rpm1" msprop:Generator_ColumnVarNameInTable="columnrpm1" msprop:Generator_ColumnPropNameInRow="rpm1" msprop:Generator_ColumnPropNameInTable="rpm1Column" msprop:Generator_UserColumnName="rpm1" type="xs:unsignedInt" />
+              <xs:element name="t1" msprop:Generator_ColumnVarNameInTable="columnt1" msprop:Generator_ColumnPropNameInRow="t1" msprop:Generator_ColumnPropNameInTable="t1Column" msprop:Generator_UserColumnName="t1" type="xs:duration" />
+              <xs:element name="batchno" msprop:Generator_ColumnVarNameInTable="columnbatchno" msprop:Generator_ColumnPropNameInRow="batchno" msprop:Generator_ColumnPropNameInTable="batchnoColumn" msprop:Generator_UserColumnName="batchno">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="rpm2" msprop:Generator_ColumnVarNameInTable="columnrpm2" msprop:Generator_ColumnPropNameInRow="rpm2" msprop:Generator_ColumnPropNameInTable="rpm2Column" msprop:Generator_UserColumnName="rpm2" type="xs:unsignedInt" />
+              <xs:element name="t2" msprop:Generator_ColumnVarNameInTable="columnt2" msprop:Generator_ColumnPropNameInRow="t2" msprop:Generator_ColumnPropNameInTable="t2Column" msprop:Generator_UserColumnName="t2" type="xs:duration" />
+              <xs:element name="rpm3" msprop:Generator_ColumnVarNameInTable="columnrpm3" msprop:Generator_ColumnPropNameInRow="rpm3" msprop:Generator_ColumnPropNameInTable="rpm3Column" msprop:Generator_UserColumnName="rpm3" type="xs:unsignedInt" />
+              <xs:element name="t3" msprop:Generator_ColumnVarNameInTable="columnt3" msprop:Generator_ColumnPropNameInRow="t3" msprop:Generator_ColumnPropNameInTable="t3Column" msprop:Generator_UserColumnName="t3" type="xs:duration" />
+              <xs:element name="rpm4" msprop:Generator_ColumnVarNameInTable="columnrpm4" msprop:Generator_ColumnPropNameInRow="rpm4" msprop:Generator_ColumnPropNameInTable="rpm4Column" msprop:Generator_UserColumnName="rpm4" type="xs:unsignedInt" />
+              <xs:element name="t4" msprop:Generator_ColumnVarNameInTable="columnt4" msprop:Generator_ColumnPropNameInRow="t4" msprop:Generator_ColumnPropNameInTable="t4Column" msprop:Generator_UserColumnName="t4" type="xs:duration" />
+              <xs:element name="rpm5" msprop:Generator_ColumnVarNameInTable="columnrpm5" msprop:Generator_ColumnPropNameInRow="rpm5" msprop:Generator_ColumnPropNameInTable="rpm5Column" msprop:Generator_UserColumnName="rpm5" type="xs:unsignedInt" />
+              <xs:element name="t5" msprop:Generator_ColumnVarNameInTable="columnt5" msprop:Generator_ColumnPropNameInRow="t5" msprop:Generator_ColumnPropNameInTable="t5Column" msprop:Generator_UserColumnName="t5" type="xs:duration" />
+              <xs:element name="rpm6" msprop:Generator_ColumnVarNameInTable="columnrpm6" msprop:Generator_ColumnPropNameInRow="rpm6" msprop:Generator_ColumnPropNameInTable="rpm6Column" msprop:Generator_UserColumnName="rpm6" type="xs:unsignedInt" />
+              <xs:element name="t6" msprop:Generator_ColumnVarNameInTable="columnt6" msprop:Generator_ColumnPropNameInRow="t6" msprop:Generator_ColumnPropNameInTable="t6Column" msprop:Generator_UserColumnName="t6" type="xs:duration" />
+              <xs:element name="rpm7" msprop:Generator_ColumnVarNameInTable="columnrpm7" msprop:Generator_ColumnPropNameInRow="rpm7" msprop:Generator_ColumnPropNameInTable="rpm7Column" msprop:Generator_UserColumnName="rpm7" type="xs:unsignedInt" />
+              <xs:element name="t7" msprop:Generator_ColumnVarNameInTable="columnt7" msprop:Generator_ColumnPropNameInRow="t7" msprop:Generator_ColumnPropNameInTable="t7Column" msprop:Generator_UserColumnName="t7" type="xs:duration" />
+              <xs:element name="rpm8" msprop:Generator_ColumnVarNameInTable="columnrpm8" msprop:Generator_ColumnPropNameInRow="rpm8" msprop:Generator_ColumnPropNameInTable="rpm8Column" msprop:Generator_UserColumnName="rpm8" type="xs:unsignedInt" />
+              <xs:element name="t8" msprop:Generator_ColumnVarNameInTable="columnt8" msprop:Generator_ColumnPropNameInRow="t8" msprop:Generator_ColumnPropNameInTable="t8Column" msprop:Generator_UserColumnName="t8" type="xs:duration" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
